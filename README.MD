@@ -1,3 +1,5 @@
-# Here official ISO's will be uploaded.
+# Official Operating System ISOs will be uploaded here.
 
-## polarOS is currently in the Beta phase! Please be patient while our team developes the best OS for your daily use!
+### PolarOS is currently in Q3 Beta phase. Please be patient while our team developes the best OS for your daily use!
+
+###### Download the current available ISO here: [PolarOS Beta](https://polaros.xyz/beta)
